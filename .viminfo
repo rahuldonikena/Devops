@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1651350020,,"wq"
+|2,0,1651359121,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,25 @@
 # Registers:
 
 # File marks:
-'0  1  10  ~/file1
-|4,48,1,10,1651350020,"~/file1"
+'0  1  0  ~/.gitconfig
+|4,48,1,0,1651359121,"~/.gitconfig"
+'1  1  10  ~/file1
+|4,49,1,10,1651350020,"~/file1"
 
 # Jumplist (newest first):
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1651359121,"~/.gitconfig"
+-'  1  10  ~/file1
+|4,39,1,10,1651350020,"~/file1"
 -'  1  10  ~/file1
 |4,39,1,10,1651350020,"~/file1"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitconfig
+	*	1651359118	0
+	"	1	0
+	^	1	0
 
 > ~/file1
 	*	1651350008	0
